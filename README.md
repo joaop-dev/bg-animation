@@ -9,4 +9,3 @@ Animação desenvolvida para a aula de Desenvolvimento Web I, utilizando as segu
 ## 📧Contato
 
 joaopauloteixeiralopes@outlook.com
-# bg-animation
